@@ -18,7 +18,7 @@ To become a trusted platform for open data, computational research, and reproduc
 
 ## Current Projects
 
-### 🇳🇵 Nepal Data Toolkit (NDT)
+###  Atlas Data Toolkit (ADT)
 
 An open-source toolkit for extracting, cleaning, validating, and standardizing structured data from government publications.
 
